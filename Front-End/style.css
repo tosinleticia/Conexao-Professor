@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    border: 0;
+}
+
+header{
+    background-color: #300D54;
+    height: 85px;
+}
+
+main{
+    height: 81vh;
+    background-color: yellow;
+}
+
+footer{
+    background-color: #300D54;
+    height: 50px;
+}
